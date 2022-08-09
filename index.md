@@ -1,5 +1,5 @@
 ﻿# Floor Cleaning Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I created my floor cleaning robot using arduino Uno R3, an arduino shield, and an ECHO sensor (HC-SR04).
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
