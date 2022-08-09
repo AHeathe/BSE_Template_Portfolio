@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Amritpaul L. | Leland Highschool | Electrical Engineering | Incoming Junior
+| Amritpaul L. | Leland Highschool | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
  ![Echo Sensor]! (https://www.elementzonline.com/image/data/BLOG/USBlogimg.jpg)
