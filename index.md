@@ -6,7 +6,7 @@ This will serve as a brief description of your project. Limit this to three sent
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
- ![Relevant Name]! ([https://hackster.imgix.net/uploads/attachments/991561/uploads2ftmp2ff6c8de93-288c-4663-9a29-31c8e61172812fultrasonic5_WCDWvutJmv.png?auto=compress%2Cformat&w=680&h=510&fit=max](https://www.elementzonline.com/image/data/BLOG/USBlogimg.jpg))
+ ![Relevant Name]! (https://www.elementzonline.com/image/data/BLOG/USBlogimg.jpg)
   
 
 # First Milestone
