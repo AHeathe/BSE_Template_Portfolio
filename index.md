@@ -15,14 +15,12 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659979415/video_to_markdown/images/youtube--abd1UoVswN4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/abd1UoVswN4 "Milestone 1")
 
 # Second Milestone
-My second mileston involved using the arduino shield to allow the motor to run forwards and backwards and giving the motors restrictions. Since I had only 2 motors and 2 wheels instead of 4, it was simpler to setup than if it was a 4 wheeled car. 
-
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second mileston involved using the arduino shield to allow the motor to run forwards and backwards and giving the motors restrictions. Since I had only 2 motors and 2 wheels instead of 4. It was easier to setup than if it was a 4 wheeled car because then there would have been more variables in the code. I wired the motor to the shield and the shield to the arduino and tested it to make sure the motors were working. Then, I connected 5V to the 5V on the shield and the (-) side to the GRND pin.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1660064085/video_to_markdown/images/youtube--vta6Ggo7jCI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vta6Ggo7jCI "Milestone 2")
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.  
+My final milestone is me fixing this major issue. My car would only move forwards and not listen to any other functions. This was due to the lack of use of the ENA and ENB pins so i needed to wire them up. Then I realized I need a stronger battery source and 2 of them, one for my Arduino to power that up and one for my Arduino Sheild to power the motors and the shield. Therefore, I used 2 9V batteries.   
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
