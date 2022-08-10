@@ -32,7 +32,7 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 | Brush |
 | Car Chasis (With Motor and Wheels) |
 
-#Code
+# Code
 const int trigPin = 4;
 const int echoPin = 2;
 
