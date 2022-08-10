@@ -10,7 +10,7 @@ I was working on an Arduino based floor cleaning robot with an Echo Sensor (HC-S
   
 
 # Final Milestone
-My final milestone is me fixing this major issue. My car would only move forwards and not listen to any other functions. This was due to the lack of use of the ENA and ENB pins so i needed to wire them up. Then I realized I need a stronger battery source and 2 of them, one for my Arduino to power that up and one for my Arduino Sheild to power the motors and the shield. Therefore, I used 2 9V batteries.   
+My final milestone is me fixing this major issue. My car would only move forwards and not listen to any other functions. This was due to the lack of use of the ENA and ENB pins so i needed to wire them up. Then I realized I need a stronger battery source and 2 of them, one for my Arduino to power that up and one for my Arduino Sheild to power the motors and the shield. Therefore, I used 2 9V batteries. I tried swapping them out for 6V batteries and 5V batteries but they did not work so I had to continue using the 9V Batteries.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
@@ -24,7 +24,12 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659979415/video_to_markdown/images/youtube--abd1UoVswN4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/abd1UoVswN4 "Milestone 1")
 
-# Starter Project
-My starter project was 
+# Bill of Materials
+Echo Sensor (HC-SR04)
+Wires
+Alligator Clips
+BreadBoard
+Brush
+Car Chasis (With Motor,
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "Starter Project"){:target="_blank" rel="noopener"}
