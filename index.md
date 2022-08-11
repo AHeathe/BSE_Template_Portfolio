@@ -27,8 +27,8 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 # Bill of Materials
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Echo Sensor (HC-SR04)  |
+| Wires  | 
 
 | Echo Sensor (HC-SR04) |
 | Wires |
