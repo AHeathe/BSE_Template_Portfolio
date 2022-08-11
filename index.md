@@ -12,7 +12,7 @@ I was working on an Arduino based floor cleaning robot with an Echo Sensor (HC-S
 # Final Milestone
 My final milestone is me fixing this major issue. My car would only move forwards and not listen to any other functions. This was due to the lack of use of the ENA and ENB pins so i needed to wire them up. Then I realized I need a stronger battery source and 2 of them, one for my Arduino to power that up and one for my Arduino Sheild to power the motors and the shield. Therefore, I used 2 9V batteries. I tried swapping them out for 6V batteries and 5V batteries but they did not work so I had to continue using the 9V Batteries.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1660235656/video_to_markdown/images/youtube--dGzlDxW8ur0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dGzlDxW8ur0 "Milestone 3")
 
 # Second Milestone
 My second mileston involved using the arduino shield to allow the motor to run forwards and backwards and giving the motors restrictions. Since I had only 2 motors and 2 wheels instead of 4. It was easier to setup than if it was a 4 wheeled car because then there would have been more variables in the code. I wired the motor to the shield and the shield to the arduino and tested it to make sure the motors were working. Then, I connected 5V to the 5V on the shield and the (-) side to the GRND pin.
