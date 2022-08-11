@@ -33,7 +33,9 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 | Car Chasis (With Motor and Wheels) |
 
 # Code
-'''
+
+```
+
 const int trigPin = 4;
 const int echoPin = 2;
 
@@ -161,4 +163,5 @@ void right() {
   digitalWrite(motor2pin1, HIGH);
   digitalWrite(motor2pin2, LOW);
 }
-'''
+
+```
