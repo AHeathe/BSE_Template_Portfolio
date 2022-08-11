@@ -31,7 +31,7 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 | BreadBoard  | 
 | Brush  | 
 | Car Chasis (With Motor and Wheels)  | 
-
+| Arduino  | 
 
 # Code
 
