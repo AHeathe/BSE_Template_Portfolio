@@ -23,6 +23,7 @@ My first milestone was setting up the car Chasis, screwing in the motor to the f
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659979415/video_to_markdown/images/youtube--abd1UoVswN4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/abd1UoVswN4 "Milestone 1")
 
 # Bill of Materials
+
 | Materials  |
 | ------------- |
 | Echo Sensor (HC-SR04)  |
